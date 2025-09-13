@@ -1,2 +1,13 @@
-# DAW_DIW
-Repositorio destinado a lo realizado en la asignatura DIW
+# DIW
+
+Este repositorio está destinado a recopilar los ejercicios, prácticas y trabajos realizados en clase dentro del módulo de **Diseño de interfaces WEB (DIW)**.
+
+Aquí se irán subiendo progresivamente los distintos proyectos y actividades que forman parte del aprendizaje durante el curso.
+
+## Contenido
+
+- Ejercicios prácticos
+- Proyectos individuales y grupales
+- Apuntes y documentación complementaria
+
+> Este espacio servirá como referencia y seguimiento del progreso académico en el módulo DIW.
